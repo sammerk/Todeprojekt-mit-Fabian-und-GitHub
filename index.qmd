@@ -1,7 +1,9 @@
 ---
 title: "Todespräsi in Reveal"
 author: "dersamuel"
-format: revealjs
+format: 
+  revealjs:
+    embed-resources: true
 editor: visual
 ---
 
